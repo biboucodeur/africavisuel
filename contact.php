@@ -146,7 +146,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       <div class="contact-details">
         <div class="contact-item">
           <i class="fas fa-phone-alt"></i>
-          <p>+221 78 411 45 11</p>
+          <p>+221 77 111 11 11</p>
         </div>
         <div class="contact-item">
           <i class="fas fa-envelope"></i>
@@ -154,7 +154,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
         <div class="contact-item">
           <i class="fas fa-map-marker-alt"></i>
-          <p>Keur Massar, Dakar, Sénégal</p>
+          <p>Dakar, Sénégal</p>
         </div>
       </div>
     </section>
