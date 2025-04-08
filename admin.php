@@ -29,7 +29,7 @@ $brands = $pdo->query("SELECT id, name FROM brands")->fetchAll();
     <meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
     <link rel="stylesheet" href="./styles/africa.css">
-    <title>Admin - AFRICA VISUEL</title>
+    <title>Admin</title>
     <style>
         .admin-page {
             max-width: 1200px;
